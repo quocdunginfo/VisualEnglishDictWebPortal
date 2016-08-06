@@ -1,0 +1,16 @@
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict\bin\Release\VisualEnglishDict.exe.config
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict\bin\Release\VisualEnglishDict.exe
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict\bin\Release\VisualEnglishDict.pdb
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict\bin\Release\VisualEnglishDict.Business.dll
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict\bin\Release\VisualEnglishDict.Core.dll
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict\bin\Release\HtmlAgilityPack.dll
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict\bin\Release\VisualEnglishDict.Business.pdb
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict\bin\Release\VisualEnglishDict.Core.pdb
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict\bin\Release\HtmlAgilityPack.pdb
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict\bin\Release\HtmlAgilityPack.xml
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict\obj\Release\VisualEnglishDict.csprojResolveAssemblyReference.cache
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict\obj\Release\VisualEnglishDict.Form1.resources
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict\obj\Release\VisualEnglishDict.Properties.Resources.resources
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict\obj\Release\VisualEnglishDict.csproj.GenerateResource.Cache
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict\obj\Release\VisualEnglishDict.exe
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict\obj\Release\VisualEnglishDict.pdb

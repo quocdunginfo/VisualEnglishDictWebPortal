@@ -1,0 +1,9 @@
+c:\users\dungnq5\documents\visual studio 2013\Projects\VisualEnglishDict\VisualEnglishDict.Core\bin\Debug\VisualEnglishDict.Core.dll
+c:\users\dungnq5\documents\visual studio 2013\Projects\VisualEnglishDict\VisualEnglishDict.Core\bin\Debug\VisualEnglishDict.Core.pdb
+c:\users\dungnq5\documents\visual studio 2013\Projects\VisualEnglishDict\VisualEnglishDict.Core\obj\Debug\VisualEnglishDict.Core.csprojResolveAssemblyReference.cache
+c:\users\dungnq5\documents\visual studio 2013\Projects\VisualEnglishDict\VisualEnglishDict.Core\obj\Debug\VisualEnglishDict.Core.dll
+c:\users\dungnq5\documents\visual studio 2013\Projects\VisualEnglishDict\VisualEnglishDict.Core\obj\Debug\VisualEnglishDict.Core.pdb
+C:\Users\quocdunginfo\Desktop\VisualEnglishDict\VisualEnglishDict\VisualEnglishDict.Core\bin\Debug\VisualEnglishDict.Core.dll
+C:\Users\quocdunginfo\Desktop\VisualEnglishDict\VisualEnglishDict\VisualEnglishDict.Core\bin\Debug\VisualEnglishDict.Core.pdb
+C:\Users\quocdunginfo\Desktop\VisualEnglishDict\VisualEnglishDict\VisualEnglishDict.Core\obj\Debug\VisualEnglishDict.Core.dll
+C:\Users\quocdunginfo\Desktop\VisualEnglishDict\VisualEnglishDict\VisualEnglishDict.Core\obj\Debug\VisualEnglishDict.Core.pdb

@@ -1,0 +1,31 @@
+c:\users\dungnq5\documents\visual studio 2013\Projects\VisualEnglishDict\VisualEnglishDict.Business\bin\Debug\VisualEnglishDict.Business.dll
+c:\users\dungnq5\documents\visual studio 2013\Projects\VisualEnglishDict\VisualEnglishDict.Business\bin\Debug\VisualEnglishDict.Business.pdb
+c:\users\dungnq5\documents\visual studio 2013\Projects\VisualEnglishDict\VisualEnglishDict.Business\obj\Debug\VisualEnglishDict.Business.dll
+c:\users\dungnq5\documents\visual studio 2013\Projects\VisualEnglishDict\VisualEnglishDict.Business\obj\Debug\VisualEnglishDict.Business.pdb
+c:\users\dungnq5\documents\visual studio 2013\Projects\VisualEnglishDict\VisualEnglishDict.Business\bin\Debug\HtmlAgilityPack.dll
+c:\users\dungnq5\documents\visual studio 2013\Projects\VisualEnglishDict\VisualEnglishDict.Business\bin\Debug\HtmlAgilityPack.pdb
+c:\users\dungnq5\documents\visual studio 2013\Projects\VisualEnglishDict\VisualEnglishDict.Business\bin\Debug\HtmlAgilityPack.xml
+c:\users\dungnq5\documents\visual studio 2013\Projects\VisualEnglishDict\VisualEnglishDict.Business\obj\Debug\VisualEnglishDict.Business.csprojResolveAssemblyReference.cache
+c:\users\dungnq5\documents\visual studio 2013\Projects\VisualEnglishDict\VisualEnglishDict.Business\bin\Debug\VisualEnglishDict.Core.dll
+c:\users\dungnq5\documents\visual studio 2013\Projects\VisualEnglishDict\VisualEnglishDict.Business\bin\Debug\VisualEnglishDict.Core.pdb
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict.Business\bin\Debug\VisualEnglishDict.Business.dll
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict.Business\bin\Debug\VisualEnglishDict.Business.pdb
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict.Business\bin\Debug\HtmlAgilityPack.dll
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict.Business\bin\Debug\VisualEnglishDict.Core.dll
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict.Business\bin\Debug\VisualEnglishDict.Core.pdb
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict.Business\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict.Business\bin\Debug\HtmlAgilityPack.xml
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict.Business\obj\Debug\VisualEnglishDict.Business.csprojResolveAssemblyReference.cache
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict.Business\obj\Debug\VisualEnglishDict.Business.dll
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict.Business\obj\Debug\VisualEnglishDict.Business.pdb
+C:\Users\quocdunginfo\Desktop\VisualEnglishDict\VisualEnglishDict\VisualEnglishDict.Business\bin\Debug\VisualEnglishDict.Business.dll
+C:\Users\quocdunginfo\Desktop\VisualEnglishDict\VisualEnglishDict\VisualEnglishDict.Business\bin\Debug\VisualEnglishDict.Business.pdb
+C:\Users\quocdunginfo\Desktop\VisualEnglishDict\VisualEnglishDict\VisualEnglishDict.Business\bin\Debug\HtmlAgilityPack.dll
+C:\Users\quocdunginfo\Desktop\VisualEnglishDict\VisualEnglishDict\VisualEnglishDict.Business\bin\Debug\VisualEnglishDict.Core.dll
+C:\Users\quocdunginfo\Desktop\VisualEnglishDict\VisualEnglishDict\VisualEnglishDict.Business\bin\Debug\VisualEnglishDict.Core.pdb
+C:\Users\quocdunginfo\Desktop\VisualEnglishDict\VisualEnglishDict\VisualEnglishDict.Business\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\quocdunginfo\Desktop\VisualEnglishDict\VisualEnglishDict\VisualEnglishDict.Business\bin\Debug\HtmlAgilityPack.xml
+C:\Users\quocdunginfo\Desktop\VisualEnglishDict\VisualEnglishDict\VisualEnglishDict.Business\obj\Debug\VisualEnglishDict.Business.csprojResolveAssemblyReference.cache
+C:\Users\quocdunginfo\Desktop\VisualEnglishDict\VisualEnglishDict\VisualEnglishDict.Business\obj\Debug\VisualEnglishDict.Business.dll
+C:\Users\quocdunginfo\Desktop\VisualEnglishDict\VisualEnglishDict\VisualEnglishDict.Business\obj\Debug\VisualEnglishDict.Business.pdb
+C:\Users\quocdunginfo\Desktop\VisualEnglishDict\VisualEnglishDict\VisualEnglishDict.Business\bin\Debug\Newtonsoft.Json.dll

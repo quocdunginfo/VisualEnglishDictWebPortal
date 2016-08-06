@@ -1,0 +1,4 @@
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict.Core\bin\Release\VisualEnglishDict.Core.dll
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict.Core\bin\Release\VisualEnglishDict.Core.pdb
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict.Core\obj\Release\VisualEnglishDict.Core.dll
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict.Core\obj\Release\VisualEnglishDict.Core.pdb

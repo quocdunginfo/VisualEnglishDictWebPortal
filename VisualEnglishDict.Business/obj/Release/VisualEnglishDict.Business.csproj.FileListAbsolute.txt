@@ -1,0 +1,10 @@
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict.Business\bin\Release\VisualEnglishDict.Business.dll
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict.Business\bin\Release\VisualEnglishDict.Business.pdb
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict.Business\bin\Release\HtmlAgilityPack.dll
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict.Business\bin\Release\VisualEnglishDict.Core.dll
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict.Business\bin\Release\VisualEnglishDict.Core.pdb
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict.Business\bin\Release\HtmlAgilityPack.pdb
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict.Business\bin\Release\HtmlAgilityPack.xml
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict.Business\obj\Release\VisualEnglishDict.Business.csprojResolveAssemblyReference.cache
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict.Business\obj\Release\VisualEnglishDict.Business.dll
+C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict.Business\obj\Release\VisualEnglishDict.Business.pdb
