@@ -8,3 +8,15 @@ C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\Visual
 C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict.Business\obj\Release\VisualEnglishDict.Business.csprojResolveAssemblyReference.cache
 C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict.Business\obj\Release\VisualEnglishDict.Business.dll
 C:\Users\dungnq5\Documents\visual studio 2013\Projects\SvnHubSource\trunk\VisualEnglishDict\VisualEnglishDict.Business\obj\Release\VisualEnglishDict.Business.pdb
+C:\Users\quocdunginfo\Desktop\Projects\VisualEnglishDictWebPortal.git\trunk\VisualEnglishDict.Business\bin\Release\VisualEnglishDict.Business.dll
+C:\Users\quocdunginfo\Desktop\Projects\VisualEnglishDictWebPortal.git\trunk\VisualEnglishDict.Business\bin\Release\VisualEnglishDict.Business.pdb
+C:\Users\quocdunginfo\Desktop\Projects\VisualEnglishDictWebPortal.git\trunk\VisualEnglishDict.Business\bin\Release\HtmlAgilityPack.dll
+C:\Users\quocdunginfo\Desktop\Projects\VisualEnglishDictWebPortal.git\trunk\VisualEnglishDict.Business\bin\Release\Newtonsoft.Json.dll
+C:\Users\quocdunginfo\Desktop\Projects\VisualEnglishDictWebPortal.git\trunk\VisualEnglishDict.Business\bin\Release\VisualEnglishDict.Core.dll
+C:\Users\quocdunginfo\Desktop\Projects\VisualEnglishDictWebPortal.git\trunk\VisualEnglishDict.Business\bin\Release\VisualEnglishDict.Core.pdb
+C:\Users\quocdunginfo\Desktop\Projects\VisualEnglishDictWebPortal.git\trunk\VisualEnglishDict.Business\bin\Release\HtmlAgilityPack.pdb
+C:\Users\quocdunginfo\Desktop\Projects\VisualEnglishDictWebPortal.git\trunk\VisualEnglishDict.Business\bin\Release\HtmlAgilityPack.xml
+C:\Users\quocdunginfo\Desktop\Projects\VisualEnglishDictWebPortal.git\trunk\VisualEnglishDict.Business\bin\Release\Newtonsoft.Json.xml
+C:\Users\quocdunginfo\Desktop\Projects\VisualEnglishDictWebPortal.git\trunk\VisualEnglishDict.Business\obj\Release\VisualEnglishDict.Business.csprojResolveAssemblyReference.cache
+C:\Users\quocdunginfo\Desktop\Projects\VisualEnglishDictWebPortal.git\trunk\VisualEnglishDict.Business\obj\Release\VisualEnglishDict.Business.dll
+C:\Users\quocdunginfo\Desktop\Projects\VisualEnglishDictWebPortal.git\trunk\VisualEnglishDict.Business\obj\Release\VisualEnglishDict.Business.pdb

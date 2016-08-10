@@ -29,3 +29,14 @@ C:\Users\quocdunginfo\Desktop\VisualEnglishDict\VisualEnglishDict\VisualEnglishD
 C:\Users\quocdunginfo\Desktop\VisualEnglishDict\VisualEnglishDict\VisualEnglishDict.Business\obj\Debug\VisualEnglishDict.Business.dll
 C:\Users\quocdunginfo\Desktop\VisualEnglishDict\VisualEnglishDict\VisualEnglishDict.Business\obj\Debug\VisualEnglishDict.Business.pdb
 C:\Users\quocdunginfo\Desktop\VisualEnglishDict\VisualEnglishDict\VisualEnglishDict.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dungnq5\Desktop\Project2\VisualEnglishDictWebPortal.git\trunk\VisualEnglishDict.Business\bin\Debug\VisualEnglishDict.Business.dll
+C:\Users\dungnq5\Desktop\Project2\VisualEnglishDictWebPortal.git\trunk\VisualEnglishDict.Business\bin\Debug\VisualEnglishDict.Business.pdb
+C:\Users\dungnq5\Desktop\Project2\VisualEnglishDictWebPortal.git\trunk\VisualEnglishDict.Business\bin\Debug\HtmlAgilityPack.dll
+C:\Users\dungnq5\Desktop\Project2\VisualEnglishDictWebPortal.git\trunk\VisualEnglishDict.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dungnq5\Desktop\Project2\VisualEnglishDictWebPortal.git\trunk\VisualEnglishDict.Business\bin\Debug\VisualEnglishDict.Core.dll
+C:\Users\dungnq5\Desktop\Project2\VisualEnglishDictWebPortal.git\trunk\VisualEnglishDict.Business\bin\Debug\VisualEnglishDict.Core.pdb
+C:\Users\dungnq5\Desktop\Project2\VisualEnglishDictWebPortal.git\trunk\VisualEnglishDict.Business\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\dungnq5\Desktop\Project2\VisualEnglishDictWebPortal.git\trunk\VisualEnglishDict.Business\bin\Debug\HtmlAgilityPack.xml
+C:\Users\dungnq5\Desktop\Project2\VisualEnglishDictWebPortal.git\trunk\VisualEnglishDict.Business\obj\Debug\VisualEnglishDict.Business.csprojResolveAssemblyReference.cache
+C:\Users\dungnq5\Desktop\Project2\VisualEnglishDictWebPortal.git\trunk\VisualEnglishDict.Business\obj\Debug\VisualEnglishDict.Business.dll
+C:\Users\dungnq5\Desktop\Project2\VisualEnglishDictWebPortal.git\trunk\VisualEnglishDict.Business\obj\Debug\VisualEnglishDict.Business.pdb

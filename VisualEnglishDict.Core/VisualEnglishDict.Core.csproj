@@ -41,6 +41,9 @@
   <ItemGroup>
     <Compile Include="Models\DictResult.cs" />
     <Compile Include="Models\HtmlImage.cs" />
+    <Compile Include="Models\WebApi\Dict\DictImgRequest.cs" />
+    <Compile Include="Models\WebApi\Dict\DictPredictWordRequest.cs" />
+    <Compile Include="Models\WebApi\Dict\DictTransTextRequest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

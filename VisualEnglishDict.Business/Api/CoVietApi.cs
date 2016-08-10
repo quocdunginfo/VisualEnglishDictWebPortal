@@ -13,7 +13,7 @@ namespace VisualEnglishDict.Business.Api
 {
     public class CoVietApi
     {
-        public const string DICT_API = "http://tratu.coviet.vn/hoc-tieng-anh/tu-dien/lac-viet/A-V/{0}.html";
+        public const string DICT_EN_VI_API = "http://tratu.coviet.vn/hoc-tieng-anh/tu-dien/lac-viet/A-V/{0}.html";
         public const string DICT_VI_EN_API = "http://tratu.coviet.vn/hoc-tieng-anh/tu-dien/lac-viet/V-A/{0}.html";
         public async Task<DictResult> GetDictHtmlbyKeyWord(string keyword, string api)
         {

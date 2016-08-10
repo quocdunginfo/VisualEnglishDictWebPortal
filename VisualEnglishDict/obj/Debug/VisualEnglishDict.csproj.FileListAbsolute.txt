@@ -47,3 +47,4 @@ C:\Users\quocdunginfo\Desktop\VisualEnglishDict\VisualEnglishDict\VisualEnglishD
 C:\Users\quocdunginfo\Desktop\VisualEnglishDict\VisualEnglishDict\VisualEnglishDict\obj\Debug\VisualEnglishDict.Properties.Resources.resources
 C:\Users\quocdunginfo\Desktop\VisualEnglishDict\VisualEnglishDict\VisualEnglishDict\obj\Debug\VisualEnglishDict.csproj.GenerateResource.Cache
 C:\Users\quocdunginfo\Desktop\VisualEnglishDict\VisualEnglishDict\VisualEnglishDict\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dungnq5\Desktop\Project2\VisualEnglishDictWebPortal.git\trunk\VisualEnglishDict\bin\Debug\VisualEnglishDict.exe.config

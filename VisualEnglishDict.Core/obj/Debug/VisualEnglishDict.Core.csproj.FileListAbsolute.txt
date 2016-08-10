@@ -7,3 +7,8 @@ C:\Users\quocdunginfo\Desktop\VisualEnglishDict\VisualEnglishDict\VisualEnglishD
 C:\Users\quocdunginfo\Desktop\VisualEnglishDict\VisualEnglishDict\VisualEnglishDict.Core\bin\Debug\VisualEnglishDict.Core.pdb
 C:\Users\quocdunginfo\Desktop\VisualEnglishDict\VisualEnglishDict\VisualEnglishDict.Core\obj\Debug\VisualEnglishDict.Core.dll
 C:\Users\quocdunginfo\Desktop\VisualEnglishDict\VisualEnglishDict\VisualEnglishDict.Core\obj\Debug\VisualEnglishDict.Core.pdb
+C:\Users\dungnq5\Desktop\Project2\VisualEnglishDictWebPortal.git\trunk\VisualEnglishDict.Core\bin\Debug\VisualEnglishDict.Core.dll
+C:\Users\dungnq5\Desktop\Project2\VisualEnglishDictWebPortal.git\trunk\VisualEnglishDict.Core\bin\Debug\VisualEnglishDict.Core.pdb
+C:\Users\dungnq5\Desktop\Project2\VisualEnglishDictWebPortal.git\trunk\VisualEnglishDict.Core\obj\Debug\VisualEnglishDict.Core.csprojResolveAssemblyReference.cache
+C:\Users\dungnq5\Desktop\Project2\VisualEnglishDictWebPortal.git\trunk\VisualEnglishDict.Core\obj\Debug\VisualEnglishDict.Core.dll
+C:\Users\dungnq5\Desktop\Project2\VisualEnglishDictWebPortal.git\trunk\VisualEnglishDict.Core\obj\Debug\VisualEnglishDict.Core.pdb

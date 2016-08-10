@@ -1,0 +1,144 @@
+﻿@using VisualEnglishDict.Business.Api
+@{
+    ViewBag.Title = "Home";
+    var keyword = Request.QueryString["q"];
+    if (string.IsNullOrEmpty(keyword))
+    {
+        keyword = "example";
+    }
+    var dict = Request.QueryString["d"];
+    if (string.IsNullOrEmpty(dict))
+    {
+        dict = "en-vi";
+    }
+}
+<style>
+    .cTi {
+        font-style: italic;
+        font-size: 18px;
+        font-weight: bolder;
+        color: blue;
+        margin-bottom: 10px;
+    }
+
+    div.p3l.fl.m3t {
+        display: none;
+    }
+
+    div.m5t.p10lr {
+        display: none;
+    }
+
+    div.cgach.p5lr.fl {
+        display: none;
+    }
+
+    div.w.fl {
+        font-weight: bolder;
+        font-size: 16px;
+    }
+
+    div.p5l.fl.cB {
+        font-style: italic;
+        font-size: 16px;
+    }
+
+    div.ub {
+        font-weight: bold;
+        font-size: 14px;
+    }
+    #suggest-word-text{
+        color: blue;
+        cursor: pointer; cursor: hand;
+    }
+</style>
+<br />
+<div class="row">
+    <div class="col-md-12">
+        <div class="form-inline">
+            <div class="form-group">
+                <input type="text" class="form-control" id="txtKeyword" value="@keyword">
+            </div>
+            <button type="submit" onclick=" lookupEvent() " class="btn btn-default">Search</button>
+            <div id="suggest-word-panel" style="display: inline">
+                Suggested word: <span id="suggest-word-text" onclick="suggestEvent()"></span>
+            </div>
+        </div>
+    </div>
+</div>
+<br />
+<div class="row">
+    <div class="col-md-6" id="img-view">
+        <div id="image-loading-bar" style="display: none">loading...</div>
+        <img src="#" id="image1" class="img-responsive" alt="">
+        <img src="#" id="image2" class="img-responsive" alt="">
+        <img src="#" id="image3" class="img-responsive" alt="">
+        <br />
+
+    </div>
+    <div class="col-md-6">
+        <div id="html-loading-bar" style="display: none">loading...</div>
+        <div>
+            <audio id="dict-mp3-audio" controls autoplay="autoplay">
+                <source id="dict-mp3-url" src="" type="audio/mpeg">
+                Your browser does not support the audio element.
+            </audio>
+            </div>
+        <div id="html-view"></div>
+    </div>
+</div>
+<script>
+    $(document).ready(function () {
+        lookupEvent();
+    });
+    document.getElementById("txtKeyword")
+        .addEventListener("keyup", function (event) {
+            event.preventDefault();
+            if (event.keyCode == 13) {
+                lookupEvent();
+            }
+        });
+    function suggestEvent() {
+        $("#txtKeyword").val($('#suggest-word-text').html());
+        lookupEvent();
+    }
+    function lookupEvent() {
+        $("#html-loading-bar").show();
+        $("#image-loading-bar").show();
+        var keyword = $("#txtKeyword").val();
+        $.post(
+            VED.BaseUrl + 'api/Dict/GetPredictWord',
+            { Keyword: keyword },
+            function (data) {
+                if (data.Result) {
+                    $('#suggest-word-panel').show();
+                    $('#suggest-word-text').html(data.Result);
+                } else {
+                    $('#suggest-word-panel').hide();
+                    $('#suggest-word-text').html('');
+                }
+            }
+        );
+        $.post(
+            VED.BaseUrl + 'api/Dict/GetDictImg',
+            { Keyword: keyword },
+            function (data) {
+                $("#image-loading-bar").hide();
+                $("#image1").attr("src", data.Images[0].Url);
+                $("#image2").attr("src", data.Images[1].Url);
+                $("#image3").attr("src", data.Images[2].Url);
+            }
+        );
+        $.post(
+            VED.BaseUrl + 'api/Dict/GetTransText',
+            { Keyword: keyword },
+            function (data) {
+                $("#html-loading-bar").hide();
+                $("#html-view").html(data.Result.TranslatedDoc);
+                $('#dict-mp3-url').attr('src', data.Result.SoundUrl);
+                $('#dict-mp3-url').closest('audio').load();
+            }
+        );
+    }
+</script>
+

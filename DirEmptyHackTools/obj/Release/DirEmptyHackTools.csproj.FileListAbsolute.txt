@@ -1,0 +1,9 @@
+C:\Users\quocdunginfo\Desktop\Projects\VisualEnglishDictWebPortal.git\trunk\DirEmptyHackTools\bin\Release\DirEmptyHackTools.exe.config
+C:\Users\quocdunginfo\Desktop\Projects\VisualEnglishDictWebPortal.git\trunk\DirEmptyHackTools\bin\Release\DirEmptyHackTools.exe
+C:\Users\quocdunginfo\Desktop\Projects\VisualEnglishDictWebPortal.git\trunk\DirEmptyHackTools\bin\Release\DirEmptyHackTools.pdb
+C:\Users\quocdunginfo\Desktop\Projects\VisualEnglishDictWebPortal.git\trunk\DirEmptyHackTools\obj\Release\DirEmptyHackTools.csprojResolveAssemblyReference.cache
+C:\Users\quocdunginfo\Desktop\Projects\VisualEnglishDictWebPortal.git\trunk\DirEmptyHackTools\obj\Release\DirEmptyHackTools.Form1.resources
+C:\Users\quocdunginfo\Desktop\Projects\VisualEnglishDictWebPortal.git\trunk\DirEmptyHackTools\obj\Release\DirEmptyHackTools.Properties.Resources.resources
+C:\Users\quocdunginfo\Desktop\Projects\VisualEnglishDictWebPortal.git\trunk\DirEmptyHackTools\obj\Release\DirEmptyHackTools.csproj.GenerateResource.Cache
+C:\Users\quocdunginfo\Desktop\Projects\VisualEnglishDictWebPortal.git\trunk\DirEmptyHackTools\obj\Release\DirEmptyHackTools.exe
+C:\Users\quocdunginfo\Desktop\Projects\VisualEnglishDictWebPortal.git\trunk\DirEmptyHackTools\obj\Release\DirEmptyHackTools.pdb

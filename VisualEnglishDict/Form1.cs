@@ -30,7 +30,7 @@ namespace VisualEnglishDict
             textBox1.Text = suggested.Result;
             
             var t1 = Task.Run(async () => api.GetImageByKeyword(textBox1.Text.Trim()).Result);
-            var t2 = Task.Run(async () => api2.GetDictHtmlbyKeyWord(textBox1.Text.Trim(), CoVietApi.DICT_API).Result);
+            var t2 = Task.Run(async () => api2.GetDictHtmlbyKeyWord(textBox1.Text.Trim(), CoVietApi.DICT_EN_VI_API).Result);
             Task.WaitAll(t1, t2);
             var imgList = t1.Result;
             var transText = t2.Result;
